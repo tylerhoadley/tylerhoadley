@@ -1,6 +1,6 @@
 Hi there, Git users 👋
 
-👋 Hello! I'm Tyler Hoadley
+I'm Tyler Hoadley
 
 I'm a passionate Platform Engineer and GitSecOps enthusiast with a strong focus on cloud-native technologies and integrations. I love creating efficient and scalable solutions that help teams achieve their goals.
 
