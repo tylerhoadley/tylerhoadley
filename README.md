@@ -6,27 +6,27 @@ I'm a passionate Platform Engineer and GitSecOps enthusiast with a strong focus 
 
 🔧 Skills & Technologies
 
-Languages: Bash, Python, Go, JavaScript, Perl, PHP
+- Languages: Bash, Python, Go, JavaScript, Perl, PHP
 
-Virtualization & Containerization: Kubernetes, Docker, AWS, GCP, Azure, VMware
+- Virtualization & Containerization: Kubernetes, Docker, AWS, GCP, Azure, VMware
 
-CI/CD: GitLab CI, GitHub Actions, Argo Workflows, Keptn
+- CI/CD: GitLab CI, GitHub Actions, Argo Workflows, Keptn
 
-Monitoring & Observability: Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Nagios, Zabbix
+- Monitoring & Observability: Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Nagios, Zabbix
 
-Security: OAuth2, OIDC, StackRox, Synk-monitor, CrowdStrike
+- Security: OAuth2, OIDC, StackRox, Synk-monitor, CrowdStrike
 
-Networking: MetalLB, NGINX Ingress, NGINX Ingress Plus, Kong KIC, gateway-api-sig, Istio, Contour, Traefik
+- Networking: MetalLB, NGINX Ingress, NGINX Ingress Plus, Kong KIC, gateway-api-sig, Istio, Contour, Traefik
 
-Storage & Databases: MySQL, PostgreSQL, Redis, SMB CSI, NFS Subdir Provisioner, Tegile, FreeNAS, TrueNAS, Rubrik
+- Storage & Databases: MySQL, PostgreSQL, Redis, SMB CSI, NFS Subdir Provisioner, Tegile, FreeNAS, TrueNAS, Rubrik
 
-Infrastructure & Automation: ArgoCD, Terraform, Ansible, Helm, Crossplane, AWX, Tower, Semaphore, Google Cloud Connector, Azure Service Operator, Cloudflare Operator
+- Infrastructure & Automation: ArgoCD, Terraform, Ansible, Helm, Crossplane, AWX, Tower, Semaphore, Google Cloud Connector, Azure Service Operator, Cloudflare Operator
 
-Cloud Integration: Datadog, Slack, Opsgenie, Jira, GitHub, Kafka, B2B
+- Cloud Integration: Datadog, Slack, Opsgenie, Jira, GitHub, Kafka, B2B
 
-Other Tools: Sealed Secrets, Cert-Manager, External-DNS, Stakater Reload, Masq-Agent, Kubed, Metrics-Server, Dex, OpenCost, Harbour, PgAdmin, PHPIPAM
+- Other Tools: Sealed Secrets, Cert-Manager, External-DNS, Stakater Reload, Masq-Agent, Kubed, Metrics-Server, Dex, OpenCost, Harbour, PgAdmin, PHPIPAM
 
-Application Middleware: JBoss, WildFly, WebSphere, WebLogic, Liberty, Spring Boot, Drupal, Node.js, Python
+- Application Middleware: JBoss, WildFly, WebSphere, WebLogic, Liberty, Spring Boot, Drupal, Node.js, Python
 
 
 🌱 Always Learning
